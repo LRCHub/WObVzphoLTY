@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "結",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2026-02-10T03:22:21.972903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "結 -ゆい-",
+      "artist": "Miwa",
+      "has_synced": true,
+      "path": "select/01_結_-ゆい-_Miwa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "結 - Yui",
+      "artist": "Saucy Dog",
+      "has_synced": true,
+      "path": "select/02_結_-_Yui_Saucy_Dog.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "結-YUI- feat. 志人",
+      "artist": "DJ Krush",
+      "has_synced": false,
+      "path": "select/03_結-YUI-_feat._志人_DJ_Krush.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "結-YUI-",
+      "artist": "DJ Krush feat. 志人",
+      "has_synced": false,
+      "path": "select/04_結-YUI-_DJ_Krush_feat._志人.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "結",
+      "artist": "黃美珍",
+      "has_synced": true,
+      "path": "select/05_結_黃美珍.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "結 [Live]",
+      "artist": "伍佰",
+      "has_synced": true,
+      "path": "select/06_結_[Live]_伍佰.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "結-ゆい-(Sound Inn \"S\"ver.)",
+      "artist": "miwa",
+      "has_synced": false,
+      "path": "select/07_結-ゆい-(Sound_Inn__S_ver.)_miwa.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "結-YUI-",
+      "artist": "DJ Krush",
+      "has_synced": false,
+      "path": "select/08_結-YUI-_DJ_Krush.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "起・承・転・結・序・破・急",
+      "artist": "純情のアフィリア",
+      "has_synced": true,
+      "path": "select/09_起・承・転・結・序・破・急_純情のアフィリア.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "結",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/10_結_HY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "EXEX1：結",
+      "artist": "F. PRODUCTIONS",
+      "has_synced": true,
+      "path": "select/11_EXEX1_結_F._PRODUCTIONS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "結",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_結_Saucy_Dog.txt"
+    }
+  ]
+}
